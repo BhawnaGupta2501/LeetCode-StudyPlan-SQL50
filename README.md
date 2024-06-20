@@ -14,7 +14,7 @@ Let's break down some of the important functions, commands and keywords used in 
 - 𝗡𝗢𝗧 𝗘𝗤𝗨𝗔𝗟 (<>): Compares values to determine if they are not equal, offering flexibility in data comparisons.
 - 𝗜𝗦 𝗡𝗨𝗟𝗟: An operator used to check if a value is NULL.
 
-**Basic Joins:**
+**Basic Joins**
 - 𝗚𝗥𝗢𝗨𝗣 𝗕𝗬: Used to arrange identical data into groups, often combined with aggregate functions to produce summary results.
 - 𝗝𝗢𝗜𝗡: Combines rows from two or more tables based on a related column between them.
 - 𝗜𝗡𝗡𝗘𝗥 𝗝𝗢𝗜𝗡: Returns records that have matching values in both tables.
@@ -25,6 +25,16 @@ Let's break down some of the important functions, commands and keywords used in 
 - 𝗔𝗩𝗚: Calculates the average value of a numeric column.
 - 𝗛𝗔𝗩𝗜𝗡𝗚: Similar to WHERE, but used with aggregate functions to filter groups of rows.
 - 𝗖𝗢𝗨𝗡𝗧: Returns the number of rows that match a specified condition.
+
+**Basic Aggregate Functions**
+- 𝗗𝗘𝗦𝗖: Sorts the result set in descending order.
+- 𝗔𝗦𝗖: Sorts the result set in ascending order (It is the default value for the ORDER BY clause).
+- 𝗥𝗢𝗨𝗡𝗗(): Rounds a number to a specified number of decimal places.
+- 𝗦𝗨𝗠(): Calculates the total sum of a numeric column.
+- 𝗠𝗜𝗡(): Retrieves the minimum value from a specified column.
+- 𝗜𝗙(): Returns a value if a condition is TRUE, and another value if the condition is FALSE.
+- 𝗗𝗜𝗦𝗧𝗜𝗡𝗖𝗧: Selects unique values from a column.
+- 𝗗𝗔𝗧𝗘_𝗔𝗗𝗗(): Adds a specified time interval to a date.
 
 These commands and keywords form the backbone of SQL queries, allowing us to manipulate and extract data efficiently.
 
