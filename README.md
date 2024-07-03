@@ -36,6 +36,10 @@ Let's break down some of the important functions, commands and keywords used in 
 - 𝗗𝗜𝗦𝗧𝗜𝗡𝗖𝗧: Selects unique values from a column.
 - 𝗗𝗔𝗧𝗘_𝗔𝗗𝗗(): Adds a specified time interval to a date.
 
+**Sorting and Grouping**
+- 𝗗𝗔𝗧𝗘_𝗦𝗨𝗕(): Subtracts a specified time interval to a date.
+- 𝗠𝗔𝗫(): Retrieves the maximum value from a specified column.
+
 These commands and keywords form the backbone of SQL queries, allowing us to manipulate and extract data efficiently.
 
 Thank You!
