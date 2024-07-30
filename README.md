@@ -40,6 +40,12 @@ Let's break down some of the important functions, commands and keywords used in 
 - 𝗗𝗔𝗧𝗘_𝗦𝗨𝗕(): Subtracts a specified time interval to a date.
 - 𝗠𝗔𝗫(): Retrieves the maximum value from a specified column.
 
+**Advanced Select and Joins**
+- 𝗨𝗡𝗜𝗢𝗡: Combines the result set of two or more SELECT statements.
+- 𝗠𝗔𝗫: Returns the largest value.
+- 𝗟𝗜𝗠𝗜𝗧: Specifies the number of records to return.
+- 𝗖𝗧𝗘 (𝗖𝗼𝗺𝗺𝗼𝗻 𝗧𝗮𝗯𝗹𝗲 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗶𝗼𝗻𝘀): Result set of a query which exists temporarily and for use only within the context of a larger query.
+
 These commands and keywords form the backbone of SQL queries, allowing us to manipulate and extract data efficiently.
 
 Thank You!
