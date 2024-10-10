@@ -46,6 +46,15 @@ Let's break down some of the important functions, commands and keywords used in 
 - 𝗟𝗜𝗠𝗜𝗧: Specifies the number of records to return.
 - 𝗖𝗧𝗘 (𝗖𝗼𝗺𝗺𝗼𝗻 𝗧𝗮𝗯𝗹𝗲 𝗘𝘅𝗽𝗿𝗲𝘀𝘀𝗶𝗼𝗻𝘀): Result set of a query which exists temporarily and for use only within the context of a larger query.
 
+  **Subqueries**
+- 𝐍𝐎𝐓 𝐍𝐔𝐋𝐋: An operator used to check if a value is NULL.
+- 𝐍𝐔𝐋𝐋: Represents missing or undefined data in a table.
+- 𝐂𝐀𝐒𝐄: A conditional expression used to create different outputs based on given conditions.
+- 𝐖𝐇𝐄𝐍: Used within CASE to define a condition and corresponding result.
+- 𝐔𝐍𝐈𝐎𝐍 𝐀𝐋𝐋: Combines the result sets of two queries, including duplicates.
+- 𝐋𝐈𝐊𝐄: Searches for a specified pattern in a column, commonly using % or _ wildcards.
+- 𝐃𝐄𝐍𝐒𝐄_𝐑𝐀𝐍𝐊: Assigns a rank to each row in a result set, without skipping ranks for duplicate values.
+
 These commands and keywords form the backbone of SQL queries, allowing us to manipulate and extract data efficiently.
 
 Thank You!
